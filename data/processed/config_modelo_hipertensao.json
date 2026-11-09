@@ -1,0 +1,13 @@
+{
+  "modelo": "Regressão Logística",
+  "limiar_recomendado": 0.3037,
+  "limiar_padrao": 0.5,
+  "auc_roc_teste": 0.8016,
+  "metricas_limiar_recomendado": {
+    "Acurácia": 0.7408,
+    "Precisão": 0.5289,
+    "Recall": 0.7281,
+    "F1": 0.6127
+  },
+  "observacao": "Modelo de triagem populacional; não substitui diagnóstico clínico individual."
+}

@@ -1,0 +1,18 @@
+# Dados brutos pesados (455 MB) - baixar do site do IBGE (ver README)
+data/raw/PNS_2019.txt
+data/raw/*.zip
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Segredos (nunca subir senhas)
+.env
+*.env
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
